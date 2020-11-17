@@ -1,0 +1,23 @@
+
+
+
+				**Points Table**
+
+insert into points_table(id,team_name,matches,win,loss,tie_draw,points) VALUES(1,"Mechanical",2,1,1,0,2);
+
+insert into points_table(id,team_name,matches,win,loss,tie_draw,points) VALUES(2,"Electrical",2,1,1,0,2);
+
+insert into points_table(id,team_name,matches,win,loss,tie_draw,points) VALUES(3,"Civil",1,0,1,0,0);
+
+insert into points_table(id,team_name,matches,win,loss,tie_draw,points) VALUES(4,"Computer",1,0,1,0,0);
+
+				**Time Table**
+
+insert into time_table(id,team1,team2,venue,match_date,time,result) VALUES(1,"Mechanical","Electrical","Pune","2020-10-10","11:00","Electrical Won by 6 Wickets");
+insert into time_table(id,team1,team2,venue,match_date,time,result) VALUES(2,"Civil","Computer","Pune","2020-10-11","11:00","Not yet started");
+insert into time_table(id,team1,team2,venue,match_date,time,result) VALUES(3,"Mechanical","Civil","Pune","2020-10-12","11:00","Not yet starteds");
+insert into time_table(id,team1,team2,venue,match_date,time,result) VALUES(4,"Mechanical","Computer","Pune","2020-10-13","11:00","Not yet starteds");
+insert into time_table(id,team1,team2,venue,match_date,time,result) VALUES(5,"Electrical","Computer","Pune","2020-10-14","11:00","Not yet starteds");
+insert into time_table(id,team1,team2,venue,match_date,time,result) VALUES(6,"Electrical","Civil","Pune","2020-10-15","11:00","Not yet starteds");
+insert into time_table(id,team1,team2,venue,match_date,time,result) VALUES(7,"Seml","Sem2","Pune","2020-10-16","11:00","Not yet starteds");
+
